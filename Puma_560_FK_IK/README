@@ -1,0 +1,4 @@
+Forward and Inverse Kinematics of PUMA-560 robot
+
+The inverse kinematics takes the position and rotation matrix of the robot as an input
+

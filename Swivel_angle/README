@@ -1,0 +1,3 @@
+In this code using the given the human arm motion data like the time sequence of shoulder, elbow  and wrist position it computes the time sequence of swivel angle of the arm.
+
+The code is a function to find the swivel angle.
